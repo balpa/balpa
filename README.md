@@ -16,6 +16,7 @@ My name is Berke Altıparmak. I currently live in Istanbul.
 	<hr/>
 	<h3>👨‍💻 Codewars </h3>
 	<img src="https://www.codewars.com/users/balpa/badges/large">
+	<img src="https://visitor-badge.glitch.me/badge?page_id=balpa.visitor-badge">
 </p> 
 <hr/>
 
