@@ -3,8 +3,8 @@
 My name is Berke Altıparmak. I currently live in Istanbul.  
 <img align='right' src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cc5e3ff-37e5-4b9c-abf4-92304fafa4c9/deekqx1-20d6363f-185e-4f8d-a748-f5b3f3b8fdde.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjYzVlM2ZmLTM3ZTUtNGI5Yy1hYmY0LTkyMzA0ZmFmYTRjOVwvZGVla3F4MS0yMGQ2MzYzZi0xODVlLTRmOGQtYTc0OC1mNWIzZjNiOGZkZGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bQwR0OGahVNiMtiHhvn95SFiuAZKxapsWSr_AbMK_Oc' width='200'>
 ### 🦹🏼‍♂️ About me 
-- 🎯  I’m trying to improve, learn as much as i can, and meet like-minded, curious people.
-- 🙌  I am concentrating my work mainly on frontend development at this stage of my life using technologies like React & React Native with Firebase most of the time. As non-commercial, I've done machine learning, NLP, WebGL-OpenGL, embedded systems (Arduino), software engineering, assembly programming and many more side-projects. I am pursuing a master's degree in information technology at Yıldız Technical University at present. Follow me on social media and let's keep growing and improving together.
+- 🎯  I’m trying to improve & learn as much as i can, and meet like-minded, curious people.
+- 🙌  I am concentrating my work mainly on mobile and frontend development at this stage of my life using technologies like React & React Native with Firebase most of the time. As non-commercial, I've done machine learning, NLP, WebGL-OpenGL, embedded systems (Arduino), software engineering, assembly programming and many more side-projects. I am pursuing a master's degree in information technology at Yıldız Technical University at present. Follow me on social media and let's keep growing and improving together.
 <hr/>
 <p align="center">
 	<h3>📫 Connect with me</h3>
