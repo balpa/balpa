@@ -24,3 +24,5 @@ My name is Berke Altıparmak. I currently live in Istanbul.
 [![github stats](https://github-readme-stats.vercel.app/api?username=balpa&show_icons=true&theme=tokyonight)](https://github.com/balpa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balpa&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/balpa/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balpa&theme=dark" alt="balpa" /></p>
+
