@@ -10,7 +10,7 @@ My name is Berke Altıparmak. I currently live in Istanbul.
 	<h3>📫 Connect with me</h3>
 	<a href="https://github.com/balpa"><img src="https://img.shields.io/github/followers/balpa.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/balpa"><img src="https://img.shields.io/twitter/follow/balpa?label=Twitter&style=social" alt="Twitter"></a>
-  <a href="https://www.youtube.com/berkealtiparmak"><img src="https://img.shields.io/youtube/channel/views/UCsBqWQM6K4kjHD0qqtigu0Q?style=social" alt="YouTube"></a>
+  <a href="https://www.youtube.com/berkealtiparmak"><img src="https://img.shields.io/youtube/channel/views/berkealtiparmak?style=social" alt="YouTube"></a>
 	<a href="https://www.linkedin.com/in/berkealtiparmak"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin%22%20alt=%22LinkedIn%22" alt="LinkedIn"></a>
 	<a target="_blank" href="https://berkealtiparmakk.web.app/"><img src="https://img.shields.io/badge/-Porfolio-white" alt="portfoilo_site"></a>
 	<img src="https://visitor-badge.glitch.me/badge?page_id=balpa.visitor-badge">
