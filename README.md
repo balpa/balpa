@@ -9,7 +9,7 @@ My name is Berke Altıparmak. I am trying to learn this language atm XD (better 
 #### 🦹🏼‍♂️ About Me
 
 - 🎯  My goal is to improve and learn as much as i can. I can't stay fixed on the subject for long. I'm trying to learn broadly to know about everything. I am a generalist XD
-- 🙌  Currently working in Insider as a Software Developer. Besides, doing projects using React & React Native with Firebase BaaS for a while. As non-commercial, I've done machine learning, NLP, WebGL-OpenGL, Arduino, assembly programming and many more side-projects. 
+- 🙌  Currently working in Insider as a software developer. Besides, doing projects using React & React Native with Firebase BaaS for a while. As non-commercial, I've done machine learning, NLP, WebGL-OpenGL, Arduino, assembly programming and many more side-projects. 
 <hr/>
 <p align="center">
 	<h3>📫 Connect with me</h3>
