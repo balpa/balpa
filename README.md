@@ -1,4 +1,9 @@
 <h4 align="center">I'm coding some shit in a shitty way and also i don't like js much</h4>
+
+<p align="center">
+<img  src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cc5e3ff-37e5-4b9c-abf4-92304fafa4c9/deekqx1-20d6363f-185e-4f8d-a748-f5b3f3b8fdde.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjYzVlM2ZmLTM3ZTUtNGI5Yy1hYmY0LTkyMzA0ZmFmYTRjOVwvZGVla3F4MS0yMGQ2MzYzZi0xODVlLTRmOGQtYTc0OC1mNWIzZjNiOGZkZGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bQwR0OGahVNiMtiHhvn95SFiuAZKxapsWSr_AbMK_Oc' width='200'>
+</p>
+
 <p align="center">
 	<a href="https://github.com/balpa"><img src="https://img.shields.io/github/followers/balpa.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/balpa"><img src="https://img.shields.io/twitter/follow/balpa?label=Twitter&style=social" alt="Twitter"></a>
